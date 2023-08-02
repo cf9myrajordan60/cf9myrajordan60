@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**cf9myrajordan60/cf9myrajordan60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**cf9myrajordan60/cf9myrajordan60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 - 🔭 I’m currently working on Phù sa Studio at www.phusa.com.au
 - 🌱 I’m currently learning Typescripts and Gatsbyjs, Next.js and react.js
