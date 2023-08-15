@@ -1,12 +1,11 @@
 ### Hi there 👋
+- 🥋 one member of the [@phamxuantiep](https://www.github.com/phamxuantiep) Teamwork, learning at FPT Uni. Crafting good thing, fight for good future, prepare knowledge for self improvement.
+- 👀 Team được phát triển và hoạt động chính thức tại địa chỉ website, Được cung cấp tới bạn bởi tiep.au
+- 🌱 Địa chỉ email hỗ trợ tiep@tiep.au
+- 💞️ Website https://tiep.au
+- ✨ Blog https://yo.fan/tiep
 
-**cf9myrajordan60/cf9myrajordan60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+Đặt người tiêu dùng lên hàng đầu. Đổ mồ hôi cho những chi tiết nhỏ. Săn lùng những ƯU ĐÃI tốt.
 
-- 🔭 I’m currently working on Phù sa Studio at www.phusa.com.au
-- 🌱 I’m currently learning Typescripts and Gatsbyjs, Next.js and react.js
-- 👯 I’m looking to collaborate on content creator
-- 🤔 I’m looking for help with budget and sponsor
-- 💬 Ask me about web frontend design
-- 📫 How to reach me: hi@phusa.com.au
-- 😄 Pronouns: Phù sa
-- ⚡ Fun fact: IO
+Bất chấp vị trí hiện tại của tôi, tôi luôn tò mò về những thách thức mới thông qua sự hợp tác và các cơ hội tự do.
+
